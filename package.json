@@ -1,0 +1,12 @@
+{
+  "name": "aoc20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node d1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
